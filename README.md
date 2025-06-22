@@ -1,38 +1,65 @@
-# TCS_PREP
+# 🧠 TCS_PREP
 
-This repository is created to help organize and prepare for TCS recruitment. It is structured to cover various topics and resources required for successful preparation, including coding, aptitude, verbal ability, and interview readiness.
-
-## 📁 Folder Structure
-
-The repository contains the following folders:
-
-1. **Aptitude** – Questions and solutions related to quantitative aptitude.
-2. **Logical_Reasoning** – Puzzles and logical problem sets with answers.
-3. **Verbal_Ability** – Grammar, comprehension, and verbal questions.
-4. **Coding_Practice** – Programming problems with solutions in multiple languages.
-5. **Interview_Preparation** – HR and technical interview questions, tips, and experiences.
-6. **Miscellaneous** – Additional resources like resume tips, test patterns, etc.
-
-Each folder contains 3–4 relevant files such as notes, problem sets, sample questions, or code.
-
-## 📌 How to Use
-
-- Clone or download the repository.
-- Browse through folders to focus on specific topics.
-- Contribute by adding your solutions or updating existing files.
-- Use the repository as a one-stop resource for your preparation.
-
-## 🚀 Contributions
-
-If you would like to contribute to this repo:
-1. Fork the repo
-2. Create a new branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -am 'Add some content'`)
-4. Push to the branch (`git push origin feature-name`)
-5. Create a Pull Request
+Welcome to the **TCS_PREP** repository!  
+This is a structured and community-driven collection of resources to help students prepare for **TCS** and similar campus placements. It includes coding practice, theory notes, interview questions, and much more — all organized by topic.
 
 ---
 
-Feel free to add, update, and grow this repository as your preparation progresses. All the best for your TCS journey! 💪
+## 📁 Folder Structure
 
-# TCS_PREP
+Here's what each folder in this repo covers:
+
+| Folder Name                     | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| `Coding`                       | Practice questions, logic-building problems, and hands-on coding files      |
+| `DBMS`                         | Concepts, notes, and important queries on Database Management Systems       |
+| `DSA_THEORY`                   | Theoretical content for Data Structures and Algorithms                      |
+| `E-BOOK`                       | PDF books and other reference documents                                     |
+| `HR`                           | HR interview questions, behavioral rounds, and answer strategies            |
+| `HTML,CSS & CS GENERAL`        | Web development basics and general computer science topics                  |
+| `INTERVIEW-QUESTIONS`          | Frequently asked technical questions from interviews                        |
+| `INTERVIEW_EXPERIENCE`         | Real-world interview experiences shared by peers                            |
+| `OOPS`                         | Object-Oriented Programming concepts and examples                           |
+| `OS & CN`                      | Operating System and Computer Networks notes                                |
+| `PROJECT_BASED_QUESTIONS`      | Questions based on final-year or side projects                              |
+| `SQL`                          | SQL basics, complex queries, and exercises                                  |
+| `STL`                          | C++ Standard Template Library usage and code examples                       |
+| 🚧 `Aptitude` *(To be added)*        | 📌 Placeholder for aptitude questions (quant, percentages, etc.) — **contributions welcome!** |
+| 🚧 `Reasoning` *(To be added)*       | 📌 Placeholder for logical reasoning and puzzle-based problems — **feel free to contribute!** |
+
+---
+
+## 🎯 How to Use This Repository
+
+- Browse through topic-wise folders.
+- Download PDFs/Excel sheets for offline study.
+- Use theory sections for revision and coding sections for hands-on practice.
+- Learn from real interview experiences.
+
+---
+
+## 🤝 How You Can Contribute
+
+We welcome contributions from everyone!
+
+> 📌 Especially looking for resources in **Aptitude** and **Reasoning** folders!
+
+1. Fork this repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Add your files (PDFs, Excel sheets, Notes, Code, etc.)
+4. Commit your changes (`git commit -m "Added reasoning questions"`)
+5. Push and create a Pull Request
+
+Let’s make this a go-to placement prep hub for all! 💼📚
+
+---
+
+## 🙌 Maintainer
+
+Curated and maintained by [Fardhin Shaik](https://github.com/fardhinshaik)
+
+---
+
+## 📌 License
+
+This repository is shared for educational and collaborative learning purposes only.
