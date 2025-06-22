@@ -1,6 +1,6 @@
 # 🧠 PLACEMENT_PREP
 
-Welcome to the **TCS_PREP** repository!  
+Welcome to the **PLACEMENT_PREP** repository!  
 This is a structured and community-driven collection of resources to help students prepare for **TCS** and similar campus placements. It includes coding practice, theory notes, interview questions, and much more — all organized by topic.
 
 ---
